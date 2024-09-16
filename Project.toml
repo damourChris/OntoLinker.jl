@@ -1,8 +1,7 @@
 name = "OntoLinker"
 uuid = "12ad8390-0efd-45b7-9ef7-467bf1407207"
 authors = ["Chris Damour"]
-version = "1.0.0-DEV"
-
+version = "1.0.0"
 
 [deps]
 Comonicon = "863f3e99-da2a-4334-8734-de3dacbe5542"
